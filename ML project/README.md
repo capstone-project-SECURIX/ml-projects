@@ -1,5 +1,3 @@
-# Ass1-Classification Algorithm
-
 # Comparative Study of Language Models
 
 ## Table of Contents
