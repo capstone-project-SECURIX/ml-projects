@@ -24,6 +24,15 @@ This README provides an overview of the "Emotion and Sentiment Analysis of Tweet
 ## Research Paper
 - [Research Paper Link](https://ceur-ws.org/Vol-2841/DARLI-AP_17.pdf)
 
+## Research Paper Summary
+The research paper, titled "On the Internet, where the number of choices is overwhelming, there is need to filter, prioritize and efficiently deliver relevant information in order to alleviate the problem of information overload, which has created a potential problem to many Internet users. Recommender systems solve this problem by searching through large volume of dynamically generated information to provide users with personalized content and services" focuses on the problem of information overload on the internet and the role of recommender systems in addressing this issue.
+
+The paper explores the different characteristics and potential of various prediction techniques used in recommender systems. The authors discuss the benefits of recommender systems for both service providers and users, including reducing transaction costs, improving decision-making processes, and enhancing revenues in e-commerce settings.
+
+The authors also delve into various techniques used in building recommendation systems, including collaborative filtering, content-based filtering, and hybrid filtering. They discuss the strengths and limitations of these techniques. For example, while collaborative filtering can identify other users with similar tastes and use their opinions to recommend items, it can also present problems such as cold-start, sparsity, and scalability issues.
+
+The paper emphasizes the importance of using efficient and accurate recommendation techniques to provide relevant and dependable recommendations for users. It also underscores the need for further research and practice in the field of recommendation systems.
+
 ## Code (Colab) Link
 - [Google Colab Code](https://colab.research.google.com/drive/14aLspmK2MbTUmECW-GvT5M4kQBaAvbKn?usp=sharing)
 
