@@ -21,6 +21,9 @@
 ## Introduction
 This README provides an overview of the "Emotion and Sentiment Analysis of Tweets using BERT" project, focusing on the use of Classification Algorithms in sentiment analysis, its advantages, limitations, applications, and future scope.
 
+## Output Screenshots
+- ![Output Screenshot 1](https://github.com/capstone-project-SECURIX/ml-projects/blob/main/Ass1-Classification%20Algorithm/output/ss1.png)
+
 ## Research Paper
 - [Research Paper Link](https://ceur-ws.org/Vol-2841/DARLI-AP_17.pdf)
 
