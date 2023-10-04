@@ -16,9 +16,7 @@ Welcome to the repository for the SECURIX ML Project's machine learning assignme
    - Description: This assignment focuses on implementing and studying association algorithms for the project's requirements.
    - Repository: [Ass3-Association Algorithm](https://github.com/capstone-project-SECURIX/ml-projects/tree/main/Ass3-Association)
 
-## About SECURIX Capstone Project
 
-This project is part of our capstone course, and the assignments are meant to address various aspects of machine learning within the context of SECURIX.
 
 Please refer to the individual assignment folders for detailed information, code, and documentation related to each assignment.
 
